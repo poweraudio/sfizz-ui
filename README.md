@@ -1,6 +1,7 @@
 **PowerAudio fork of sfizz-ui**
 
-This fork of sfizz-ui has the following changes:
+This fork of sfizz-ui currently has no changes. The following changes have
+since been merged upstream:
 
 * Updated dependency, allowing plugin to be built on non-x86, non-ARM
   architectures, including IBM Power.
